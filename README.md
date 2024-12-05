@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently BCA 3rd year student.
-- ✨ Frontend Developer
+- 🔭 I’m currently BCA final year student.
 - 👀 I’m interested in web development , exploring data analyst
 - 🌱 I’m currently learning ... js, Python, Excel advance, Power BI
+- ✨ Frontend Developer
 - 📫 How to reach me: ... mdfirdaus.work05@gmail.com
 
 <!--
