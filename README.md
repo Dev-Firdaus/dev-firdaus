@@ -1,5 +1,4 @@
-## Hi 👋 
-Welcome to my Profile
+## Hi 👋 /n Welcome to my Profile
 
 
 - 🔭 I’m currently BCA final year student.
